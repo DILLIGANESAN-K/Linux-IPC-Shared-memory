@@ -27,7 +27,9 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
+![alt text](1.png)
 
+![alt text](02.png)
 
 # RESULT:
 The program is executed successfully.
